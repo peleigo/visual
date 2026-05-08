@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Inimigo
+  - Hit
   layers:
   - Default
   - TransparentFX
