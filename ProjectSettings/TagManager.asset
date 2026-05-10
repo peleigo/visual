@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Inimigo
   - Hit
+  - Vitoria
   layers:
   - Default
   - TransparentFX
