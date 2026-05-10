@@ -1,8 +1,8 @@
-Angello B Capozzoli-00125789
+Angello B Capozzoli - 00125789
 
-Joao 00125554
+João Miguell Gomes Correia - 00125554
 
-Kevin Rocha Lima-00126979
+Kevin Rocha Lima - 00126979
 
 um jogo de plataforma simples 
 
