@@ -6,4 +6,4 @@ Kevin Rocha Lima - 00126979
 
 um jogo de plataforma simples 
 
-baixe o ponto execultavel e aproveite o jogo
+baixe o projeto e execulte pelo unity
